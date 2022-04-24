@@ -1,0 +1,17 @@
+Kaggle - Data
+https://www.kaggle.com/datasets/stackoverflow/pythonquestions
+
+Kaggle - Tag Prediction
+https://www.kaggle.com/code/anshulsavla/stackoverflow-tag-prediction
+
+Medium - Tag Prediction
+https://medium.datadriveninvestor.com/predicting-tags-for-the-questions-in-stack-overflow-29438367261e
+
+StackOverflow - Text Tagging
+https://stackoverflow.com/questions/9000385/nlp-text-tagging
+
+Wikipedia - Bag of Words Model
+https://en.wikipedia.org/wiki/Bag-of-words_model
+
+Medium - Text Classification
+https://medium.com/swlh/text-classification-using-the-bag-of-words-approach-with-nltk-and-scikit-learn-9a731e5c4e2f
