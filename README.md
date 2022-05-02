@@ -11,3 +11,5 @@ File Location: https://drive.google.com/drive/u/0/folders/1JwGMvRrlptyIfmMSezMPY
 - **model**: Serialized Keras model
 - **data.csv**: Preprocessed data, ready for model build
 - **experts.csv**: Example Expert database with 20 experts and no questions assigned
+
+Video: https://youtu.be/ec3ntrQCQkM
